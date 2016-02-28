@@ -19,6 +19,10 @@ First things first
 ## Learning
 There can't be enough to read
 
+### Books
+
+- [Arturs Sosins, 'Gideros Mobile Game Development', PACKT, Nov 2013](https://www.packtpub.com/game-development/gideros-mobile-game-development)
+
 ### Text-Tutorials
 
 - [Introduction to Mobile Game Development](https://github.com/Moosader/Intro-to-Mobile-Game-Development-with-Gideros) - Class (4 sessions) on making simple mobile games with Gideros and Lua
@@ -46,4 +50,4 @@ Things that use Gideros for getting things done
 //TODO
 
 - [markDown](https://github.com/nxgtri/markDown) - Simple Gideros markDown class
-	- Works fine but Translation of comments and Licence are missing
+	- Works fine but translation of comments and licence are missing
