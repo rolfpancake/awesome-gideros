@@ -1,4 +1,4 @@
-# Awesome Gideros
+# Awesome Gideros (WIP)
 A curated list of awesome Gideros apps, tutorials, plugins and articles
 
 - [Awesome Gideros](#awesome-gideros)
