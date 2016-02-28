@@ -25,6 +25,7 @@ There can't be enough to read
 
 ### Videos
 
+- [Zizanyman - Gideros Tutorials](https://www.youtube.com/playlist?list=PL4OKCIJgpLvUr3ATSvGoeZzCOY3L3HVC4) - 1 video, 13 min
 - [NarraTuts - Gideros SDK - Game Tutorial](https://www.youtube.com/playlist?list=PLxQsprq7gTvBBWkOvIqgU8DpIS8k-SU8d) - 4 videos, 4-9 min long
 
 ## Development
